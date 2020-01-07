@@ -1,0 +1,8 @@
+{
+  "name": "datasmart-utils",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/maatheusgouveia/dsutils.git",
+  "author": "maatheusgouveia <matheus_guitarplayer@hotmail.com>",
+  "license": "MIT"
+}
