@@ -1,17 +1,17 @@
-# datasmart-utils
+# npm-package-test
 
 > Teste de componentes
 
 ## Instalação
 
 ```bash
-npm install --save datasmart-utils
+npm install --save npm-package-test
 ```
 
 ou
 
 ```bash
-yarn add datasmart-utils
+yarn add npm-package-test
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ yarn add datasmart-utils
 ```jsx
 import React from "react";
 
-import { Teste1, Teste2, Teste3 } from "datasmart-utils";
+import { Teste1, Teste2, Teste3 } from "npm-package-test";
 
 function App{
 	return (
