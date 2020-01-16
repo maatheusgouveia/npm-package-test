@@ -14,7 +14,7 @@ ou
 yarn add npm-package-test
 ```
 
-## Usage
+## Exemplo
 
 ```jsx
 import React from "react";
@@ -32,6 +32,6 @@ function App{
 }
 ```
 
-## License
+## Licençe
 
 © [maatheusgouveia](https://github.com/maatheusgouveia)
