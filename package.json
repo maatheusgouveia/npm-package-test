@@ -1,10 +1,10 @@
 {
-	"name": "datasmart-utils",
+	"name": "npm-package-test",
 	"version": "1.0.9",
 	"description": "Componentes Datasmart",
 	"author": "maatheusgouveia",
 	"license": "",
-	"repository": "maatheusgouveia/datasmart-utils",
+	"repository": "maatheusgouveia/npm-package-test",
 	"main": "dist/index.js",
 	"module": "dist/index.es.js",
 	"jsnext:main": "dist/index.es.js",
